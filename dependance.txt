@@ -1,0 +1,10 @@
+npm init
+npm install -express
+            -mssql
+            -ejs
+            -nodemon
+            -yup
+            -mulder
+            -dotenv
+Cree .gitignore
+Cree server.js
